@@ -1,0 +1,70 @@
+{
+  "program": [
+    {
+      "name": {
+        "ko": "종합격투기",
+        "en": "MMA"
+      },
+      "icon": "sports_mma",
+      "desc": {
+        "ko": "코리안 좀비 MMA 코치진과 함께하는 MMA 트레이닝은 타격, 주짓수, 레슬링, 컨디셔닝을 동시에 할 수 있는 세션입니다. 비교할 수 없는 칼로리 소모(30분 기준 660Kcal 소모) 스트레스 해소, 실전에 가까운 투기 종목으로 자신감을 UP시켜드립니다.",
+        "en": "MMA training with Korean zombie MMA coaches is a session where you can do hitting, jiu-jitsu, wrestling, and conditioning at the same time. Unparalleled calorie consumption (consumption of 660Kcal in 30 minutes) Relieves stress and boosts confidence as a speculative sport close to actual practice."
+      }
+    },
+    {
+      "name": {
+        "ko": "주짓수 트레이닝",
+        "en": "Jiu-Jitsu Training"
+      },
+      "icon": "handshake",
+      "desc": {
+        "ko": "좀 더 재밌게 좀 더 효과적으로 주짓수를 접하실 수 있습니다. 주짓수 전문 코치와 선수부의 전문 지도로 초보부터 고급까지 즐길 수 있는 코리안 좀비 주짓수 프로그램입니다.",
+        "en": "You can experience Jiu-Jitsu more effectively and in a more fun way. This is a Korean Zombie Jiu-Jitsu program that can be enjoyed from beginners to advanced under the guidance of professional jiu-jitsu coaches and athletes."
+      }
+    },
+    {
+      "name": {
+        "ko": "타격 / 복싱 트레이닝",
+        "en": "Hit / Boxing Training"
+      },
+      "icon": "sports_mma",
+      "desc": {
+        "ko": "체계적인 지도가 돋보이는 복싱 프로그램! 추성훈 선수 타격코치이자 K-1 출신 코리안 좀비 MMA 타격 코치, 토미와 코리안 좀비 MMA 코치의 지도로 배우는 복싱. 효과적인 칼로리 소비와 체계적인 지도로 다이어트와 스킬 향상을 이룰 수 있는 코리안 좀비 복싱 프로그램입니다.",
+        "en": "A boxing program that stands out with systematic guidance! Boxing learning under the guidance of Choo Sung-hoon, batting coach, K-1 Korean zombie MMA batting coach, Tommy and Korean zombie MMA coach. It is a Korean zombie boxing program that can achieve diet and skill improvement through effective calorie consumption and systematic guidance."
+      }
+    },
+    {
+      "name": {
+        "ko": "레슬링 트레이닝",
+        "en": "Wrestling Training"
+      },
+      "icon": "sports_kabaddi",
+      "desc": {
+        "ko": "현대 MMA의 필수인 레슬링을 부담 없이 즐길 수 있는 프로그램입니다. 레슬링은 전신운동으로 효과적인 칼로리 소모와 체력과 근력 증진을 도와줍니다. 관원들과 코치와 함께하는 코리안 좀비 레슬링 프로그램입니다.",
+        "en": "This is a program where you can enjoy wrestling, which is essential in modern MMA, without any burden. Wrestling is a full-body exercise that helps to effectively burn calories and increase stamina and muscle strength. This is a Korean zombie wrestling program with officials and coaches."
+      }
+    },
+    {
+      "name": {
+        "ko": "다이어트 복싱 / 킥복싱",
+        "en": "Boxing / Kick Boxing Diet"
+      },
+      "icon": "health_and_safety",
+      "desc": {
+        "ko": "복싱 / 킥복싱 레슨과 다이어트를 동시에 겨냥한 효율적인 프로그램입니다. 자신감과 함께 칼로리 소비가 올라가는 일석이조의 프로그램이자, 가족 모두가 참여할 수 있는 부담감 없는 프로그램입니다.",
+        "en": "This is an efficient program aimed at boxing / kickboxing lessons and diet at the same time. It is a one-on-one program that increases calorie consumption with confidence, and is a program that does not feel burdensome for the whole family to participate in."
+      }
+    },
+    {
+      "name": {
+        "ko": "크로스핏 트레이닝",
+        "en": "CrossFit Training"
+      },
+      "icon": "fitness_center",
+      "desc": {
+        "ko": "더 많은 가동 범위와 더 빠른 템포로 움직이며 근육량은 물론이고 심폐기능까지 발달을 도와주는 운동입니다. 코리안 좀비 MMA 크로스핏은 남녀노소 즐길 수 있는 건강하고 효과적인 체지방 감량 다이어트 운동이 자 그룹원들과 함께하는 웃음 넘치는 세션입니다.",
+        "en": "It is an exercise that helps to develop not only muscle mass but also cardiorespiratory function by moving with a greater range of motion and a faster tempo. The Korean Zombie MMA CrossFit is a healthy and effective weight loss diet exercise that can be enjoyed by people of all ages, and is a session full of laughter with group members."
+      }
+    }
+  ]
+}

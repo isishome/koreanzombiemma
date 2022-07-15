@@ -1,0 +1,42 @@
+{
+  "title": {
+    "ko": "힘든 걸 즐길 수 있는 체육관을 만들겠습니다",
+    "en": "We will make an environment where you can enjoy exercise"
+  },
+  "name": {
+    "ko": "정찬성",
+    "en": "Chan Sung Jung"
+  },
+  "koreanzombie": {
+    "ko": "코리안 좀비",
+    "en": "The Korean Zombie"
+  },
+  "gymDesc": {
+    "ko": "코리안좀비MMA 체육관은 약 130평의 크기로 넓고 쾌적한 환경을 제공합니다",
+    "en": "The Korean Zombie MMA Gym is about 4,626ft in size and provides a spacious and comfortable environment"
+  },
+  "trainerDesc": {
+    "ko": "최고의 분야별 트레이너",
+    "en": "Top Overall Trainers"
+  },
+  "programDesc": {
+    "ko": "",
+    "en": ""
+  },
+  "scheduleDesc": {
+    "ko": "코리아 좀비 MMA 회원권은 1개월, 3개월, 6개월권으로 제공됩니다. 입관 사항 및 회원 비용에 대해서는 전화문의를 통해서 자세히 알 수 있습니다.",
+    "en": "Korea Zombie MMA membership is available in 1 month, 3 months, and 6 months subscriptions. You can find out more about admission and membership fees by calling us."
+  },
+  "address": {
+    "ko": "서울시 강남구 역삼로 123 한양빌딩 지하1층",
+    "en": "123, Yeoksam-ro, Gangnam-gu, Seoul, Republic of Korea"
+  },
+  "phone": {
+    "ko": "02-556-9924",
+    "en": "+82-02-556-9924"
+  },
+  "email": {
+    "ko": "sy8900@hanmail.net",
+    "en": "sy8900@hanmail.net"
+  }
+}

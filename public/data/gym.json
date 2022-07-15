@@ -1,0 +1,108 @@
+{
+  "gallery": [
+    {
+      "src": "images/gym/gym_01_1600.jpg",
+      "srcset": "images/gym/gym_01_400.jpg 400w, images/gym/gym_01_800.jpg 800w, images/gym/gym_01_1200.jpg 1200w, images/gym/gym_01_1600.jpg 1600w",
+      "desc": {
+        "ko": "로비",
+        "en": "Lobby"
+      }
+    },
+    {
+      "src": "images/gym/gym_02_1600.jpg",
+      "srcset": "images/gym/gym_02_400.jpg 400w, images/gym/gym_02_800.jpg 800w, images/gym/gym_02_1200.jpg 1200w, images/gym/gym_02_1600.jpg 1600w",
+      "desc": {
+        "ko": "체육관 전경",
+        "en": "Gym Foreground"
+      }
+    },
+    {
+      "src": "images/gym/gym_03_1600.jpg",
+      "srcset": "images/gym/gym_03_400.jpg 400w, images/gym/gym_03_800.jpg 800w, images/gym/gym_03_1200.jpg 1200w, images/gym/gym_03_1600.jpg 1600w",
+      "desc": {
+        "ko": "체육관 전경",
+        "en": "Gym Foreground"
+      }
+    },
+    {
+      "src": "images/gym/gym_04_1600.jpg",
+      "srcset": "images/gym/gym_04_400.jpg 400w, images/gym/gym_04_800.jpg 800w, images/gym/gym_04_1200.jpg 1200w, images/gym/gym_04_1600.jpg 1600w",
+      "desc": {
+        "ko": "운동용품",
+        "en": "Martial Arts Goods"
+      }
+    },
+    {
+      "src": "images/gym/gym_05_1600.jpg",
+      "srcset": "images/gym/gym_05_400.jpg 400w, images/gym/gym_05_800.jpg 800w, images/gym/gym_05_1200.jpg 1200w, images/gym/gym_05_1600.jpg 1600w",
+      "desc": {
+        "ko": "런닝머신",
+        "en": "Running Machines"
+      }
+    },
+    {
+      "src": "images/gym/gym_06_1600.jpg",
+      "srcset": "images/gym/gym_06_400.jpg 400w, images/gym/gym_06_800.jpg 800w, images/gym/gym_06_1200.jpg 1200w, images/gym/gym_06_1600.jpg 1600w",
+      "desc": {
+        "ko": "운동기구 1",
+        "en": "Exercise Equipment 1"
+      }
+    },
+    {
+      "src": "images/gym/gym_07_1600.jpg",
+      "srcset": "images/gym/gym_07_400.jpg 400w, images/gym/gym_07_800.jpg 800w, images/gym/gym_07_1200.jpg 1200w, images/gym/gym_07_1600.jpg 1600w",
+      "desc": {
+        "ko": "케틀벨",
+        "en": "Kettlebell"
+      }
+    },
+    {
+      "src": "images/gym/gym_08_1600.jpg",
+      "srcset": "images/gym/gym_08_400.jpg 400w, images/gym/gym_08_800.jpg 800w, images/gym/gym_08_1200.jpg 1200w, images/gym/gym_08_1600.jpg 1600w",
+      "desc": {
+        "ko": "샌드백 1",
+        "en": "Punching Bag 1"
+      }
+    },
+    {
+      "src": "images/gym/gym_09_1600.jpg",
+      "srcset": "images/gym/gym_03_400.jpg 400w, images/gym/gym_09_800.jpg 800w, images/gym/gym_09_1200.jpg 1200w, images/gym/gym_09_1600.jpg 1600w",
+      "desc": {
+        "ko": "샌드백 2",
+        "en": "Punching Bag 2"
+      }
+    },
+    {
+      "src": "images/gym/gym_10_1600.jpg",
+      "srcset": "images/gym/gym_10_400.jpg 400w, images/gym/gym_10_800.jpg 800w, images/gym/gym_10_1200.jpg 1200w, images/gym/gym_10_1600.jpg 1600w",
+      "desc": {
+        "ko": "지브라 매트",
+        "en": "Zebra Mats"
+      }
+    },
+    {
+      "src": "images/gym/gym_11_1600.jpg",
+      "srcset": "images/gym/gym_11_400.jpg 400w, images/gym/gym_11_800.jpg 800w, images/gym/gym_11_1200.jpg 1200w, images/gym/gym_11_1600.jpg 1600w",
+      "desc": {
+        "ko": "운동기구 2",
+        "en": "Exercise Equipment 2"
+      }
+    },
+    {
+      "src": "images/gym/gym_12_1600.jpg",
+      "srcset": "images/gym/gym_12_400.jpg 400w, images/gym/gym_12_800.jpg 800w, images/gym/gym_12_1200.jpg 1200w, images/gym/gym_12_1600.jpg 1600w",
+      "desc": {
+        "ko": "샤워실 1",
+        "en": "Shower Room 1"
+      }
+    },
+    {
+      "src": "images/gym/gym_13_1600.jpg",
+      "srcset": "images/gym/gym_13_400.jpg 400w, images/gym/gym_13_800.jpg 800w, images/gym/gym_13_1200.jpg 1200w, images/gym/gym_13_1600.jpg 1600w",
+      "desc": {
+        "ko": "샤워실 2",
+        "en": "Shower Room 2"
+      }
+    }
+  ]
+}

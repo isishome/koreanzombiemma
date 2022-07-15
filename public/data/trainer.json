@@ -1,0 +1,196 @@
+{
+  "gallery": [
+    {
+      "src": "images/trainer/jcs_01.jpg",
+      "name": {
+        "ko": "정찬성",
+        "en": "Chan Sung Jung"
+      },
+      "height": {
+        "ko": "170cm",
+        "en": "5.6ft"
+      },
+      "weight": {
+        "ko": "페더급",
+        "en": "Fetherweight"
+      },
+      "style": {
+        "ko": "좀비",
+        "en": "Zombie"
+      },
+      "job": {
+        "ko": "관장",
+        "en": "Master"
+      },
+      "youtube": "https://www.youtube.com/channel/UCc7o0OkR2BDFN4TCgPChjEw",
+      "instagram": "https://www.instagram.com/koreanzombiemma",
+      "facebook": "https://www.facebook.com/koreanzombieMMA",
+      "twitter": "https://twitter.com/KoreanZombieMMA"
+    },
+    {
+      "src": "images/trainer/bsm.png",
+      "name": {
+        "ko": "백승민",
+        "en": "Seung Min Baek"
+      },
+      "height": {
+        "ko": "183cm",
+        "en": "6ft"
+      },
+      "weight": {
+        "ko": "페더급",
+        "en": "Fetherweight"
+      },
+      "style": {
+        "ko": "킥복싱, 주짓수",
+        "en": "KickBoxing, Jiu-Jitsu"
+      },
+      "job": {
+        "ko": "개인트레이너",
+        "en": "Personal Trainer"
+      },
+      "youtube": "https://www.youtube.com/channel/UChbwNMMDQ0Ee4cTKJCanNMA"
+    },
+    {
+      "src": "images/trainer/hjy.jpg",
+      "name": {
+        "ko": "홍준영",
+        "en": "Jun Young Hong"
+      },
+      "height": {
+        "ko": "179cm",
+        "en": "5.9ft"
+      },
+      "weight": {
+        "ko": "페더급",
+        "en": "Fetherweight"
+      },
+      "style": {
+        "ko": "스트라이커",
+        "en": "Striker"
+      },
+      "job": {
+        "ko": "개인트레이너",
+        "en": "Personal Trainer"
+      },
+      "youtube": "https://www.youtube.com/channel/UCp9xhLBwiorHh6FBX7kdwqA",
+      "instagram": "https://www.instagram.com/soulbr0"
+    },
+    {
+      "src": "images/trainer/hsh.png",
+      "name": {
+        "ko": "홍승혁",
+        "en": "Seung Hyeok Hong"
+      },
+      "height": {
+        "ko": "170cm",
+        "en": "5.6ft"
+      },
+      "weight": {
+        "ko": "플라이급",
+        "en": "Flyweight"
+      },
+      "style": {
+        "ko": "킥복싱, 주짓수",
+        "en": "KickBoxing, Jiu-Jitsu"
+      },
+      "job": {
+        "ko": "개인트레이너",
+        "en": "Personal Trainer"
+      }
+    },
+    {
+      "src": "images/trainer/kmw.png",
+      "name": {
+        "ko": "김민우",
+        "en": "Min Woo Kim"
+      },
+      "height": {
+        "ko": "175cm",
+        "en": "5.7ft"
+      },
+      "weight": {
+        "ko": "페더급",
+        "en": "Fetherweight"
+      },
+      "style": {
+        "ko": "MMA",
+        "en": "MMA"
+      },
+      "job": {
+        "ko": "개인트레이너",
+        "en": "Personal Trainer"
+      }
+    },
+    {
+      "src": "images/trainer/ckj.png",
+      "name": {
+        "ko": "최강주",
+        "en": "Kang Joo Choi"
+      },
+      "height": {
+        "ko": "179cm",
+        "en": "5.9ft"
+      },
+      "weight": {
+        "ko": "페더급",
+        "en": "Fetherweight"
+      },
+      "style": {
+        "ko": "주짓수",
+        "en": "Jiu-Jitsu"
+      },
+      "job": {
+        "ko": "개인트레이너",
+        "en": "Personal Trainer"
+      }
+    },
+    {
+      "src": "images/trainer/pmh.png",
+      "name": {
+        "ko": "박문호",
+        "en": "Moon Ho Park"
+      },
+      "height": {
+        "ko": "179cm",
+        "en": "5.9ft"
+      },
+      "weight": {
+        "ko": "웰터급",
+        "en": "Welterweight"
+      },
+      "style": {
+        "ko": "복싱",
+        "en": "Boxing"
+      },
+      "job": {
+        "ko": "개인트레이너",
+        "en": "Personal Trainer"
+      },
+      "youtube": "https://www.youtube.com/channel/UCz0F-eW0TCO7WiC3cBqJ-qQ"
+    },
+    {
+      "src": "images/trainer/chg.png",
+      "name": {
+        "ko": "최한길",
+        "en": "Han Gil Choi"
+      },
+      "height": {
+        "ko": "175cm",
+        "en": "5.7ft"
+      },
+      "weight": {
+        "ko": "밴텀급",
+        "en": "Bantamweight"
+      },
+      "style": {
+        "ko": "MMA",
+        "en": "MMA"
+      },
+      "job": {
+        "ko": "개인트레이너",
+        "en": "Personal Trainer"
+      }
+    }
+  ]
+}

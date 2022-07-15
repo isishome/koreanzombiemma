@@ -1,0 +1,92 @@
+{
+  "gallery": [
+    {
+      "src": "images/master/master_01_1600.jpg",
+      "srcset": "images/master/master_01_400.jpg 400w, images/master/master_01_800.jpg 800w, images/master/master_01_1200.jpg 1200w, images/master/master_01_1600.jpg 1600w",
+      "desc": {
+        "ko": "휴식중",
+        "en": "On break"
+      }
+    },
+    {
+      "src": "images/master/master_02_1600.jpg",
+      "srcset": "images/master/master_02_400.jpg 400w, images/master/master_02_800.jpg 800w, images/master/master_02_1200.jpg 1200w, images/master/master_02_1600.jpg 1600w",
+      "desc": {
+        "ko": "밴딩",
+        "en": "Bandage"
+      }
+    },
+    {
+      "src": "images/master/master_03_1600.jpg",
+      "srcset": "images/master/master_03_400.jpg 400w, images/master/master_03_800.jpg 800w, images/master/master_03_1200.jpg 1200w, images/master/master_03_1600.jpg 1600w",
+      "desc": {
+        "ko": "밴딩",
+        "en": "Bandage"
+      }
+    },
+    {
+      "src": "images/master/master_04_1600.jpg",
+      "srcset": "images/master/master_04_400.jpg 400w, images/master/master_04_800.jpg 800w, images/master/master_04_1200.jpg 1200w, images/master/master_04_1600.jpg 1600w",
+      "desc": {
+        "ko": "하이킥",
+        "en": "Highkick"
+      }
+    },
+    {
+      "src": "images/master/master_05_1600.jpg",
+      "srcset": "images/master/master_05_400.jpg 400w, images/master/master_05_800.jpg 800w, images/master/master_05_1200.jpg 1200w, images/master/master_05_1600.jpg 1600w",
+      "desc": {
+        "ko": "라이트훅",
+        "en": "Right hook"
+      }
+    },
+    {
+      "src": "images/master/master_06_1600.jpg",
+      "srcset": "images/master/master_06_400.jpg 400w, images/master/master_06_800.jpg 800w, images/master/master_06_1200.jpg 1200w, images/master/master_06_1600.jpg 1600w",
+      "desc": {
+        "ko": "라이트훅",
+        "en": "Right hook"
+      }
+    },
+    {
+      "src": "images/master/master_07_1600.jpg",
+      "srcset": "images/master/master_07_400.jpg 400w, images/master/master_07_800.jpg 800w, images/master/master_07_1200.jpg 1200w, images/master/master_07_1600.jpg 1600w",
+      "desc": {
+        "ko": "레프트훅",
+        "en": "Left hook"
+      }
+    },
+    {
+      "src": "images/master/master_08_1600.jpg",
+      "srcset": "images/master/master_08_400.jpg 400w, images/master/master_08_800.jpg 800w, images/master/master_08_1200.jpg 1200w, images/master/master_08_1600.jpg 1600w",
+      "desc": {
+        "ko": "스트레이트",
+        "en": "Straight"
+      }
+    },
+    {
+      "src": "images/master/master_09_1600.jpg",
+      "srcset": "images/master/master_03_400.jpg 400w, images/master/master_09_800.jpg 800w, images/master/master_09_1200.jpg 1200w, images/master/master_09_1600.jpg 1600w",
+      "desc": {
+        "ko": "레프트훅",
+        "en": "Left hook"
+      }
+    },
+    {
+      "src": "images/master/master_10_1600.jpg",
+      "srcset": "images/master/master_10_400.jpg 400w, images/master/master_10_800.jpg 800w, images/master/master_10_1200.jpg 1200w, images/master/master_10_1600.jpg 1600w",
+      "desc": {
+        "ko": "레프트훅",
+        "en": "Left hook"
+      }
+    },
+    {
+      "src": "images/master/master_11_1600.jpg",
+      "srcset": "images/master/master_11_400.jpg 400w, images/master/master_11_800.jpg 800w, images/master/master_11_1200.jpg 1200w, images/master/master_11_1600.jpg 1600w",
+      "desc": {
+        "ko": "휴식중",
+        "en": "On break"
+      }
+    }
+  ]
+}

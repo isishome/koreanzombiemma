@@ -1,0 +1,505 @@
+{
+  "span": [
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    }
+  ],
+  "schedule": {
+    "mon": [
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱 / 킥복싱",
+          "en": "Boxing / Kick Boxing"
+        },
+        "bgColor": "#0d47a1",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "12:00",
+        "end": "13:00",
+        "height": "100",
+        "program": {
+          "ko": "노기 주짓수",
+          "en": "No-Gi Jiu-Jitsu"
+        },
+        "bgColor": "#b71c1c",
+        "icon": "handshake"
+      },
+      {
+        "start": "15:00",
+        "end": "18:00",
+        "height": "100",
+        "program": {
+          "ko": "선수부 훈련",
+          "en": "Team Training"
+        },
+        "bgColor": "#fd5240",
+        "icon": "diversity_3"
+      },
+      {
+        "start": "18:30",
+        "end": "19:30",
+        "height": "100",
+        "program": {
+          "ko": "노기 주짓수",
+          "en": "No-Gi Jiu-Jitsu"
+        },
+        "bgColor": "#b71c1c",
+        "icon": "handshake"
+      },
+      {
+        "start": "19:30",
+        "end": "20:00",
+        "height": "50",
+        "program": {
+          "ko": "휴식 / 자유 수련",
+          "en": "Break Time / Free Training"
+        },
+        "bgColor": "#004d40",
+        "icon": "self_improvement"
+      },
+      {
+        "start": "20:00",
+        "end": "21:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱",
+          "en": "Boxing"
+        },
+        "bgColor": "#f57f17",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "21:00",
+        "end": "21:30",
+        "height": "50",
+        "program": {
+          "ko": "크로스핏",
+          "en": "CrossFit"
+        },
+        "bgColor": "#4a148c",
+        "icon": "fitness_center"
+      },
+      {
+        "start": "21:30",
+        "end": "22:30",
+        "height": "100",
+        "program": {
+          "ko": "케이지 레슬링 / 그래플링",
+          "en": "Cage Wrestling / Graffling"
+        },
+        "bgColor": "#3e2723",
+        "icon": "sports_kabaddi"
+      }
+    ],
+    "tue": [
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "height": "100",
+        "program": {
+          "ko": "케이지 레슬링 / 그래플링",
+          "en": "Cage Wrestling / Graffling"
+        },
+        "bgColor": "#3e2723",
+        "icon": "sports_kabaddi"
+      },
+      {
+        "start": "12:00",
+        "end": "13:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱 / 킥복싱",
+          "en": "Boxing / Kick Boxing"
+        },
+        "bgColor": "#0d47a1",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "15:00",
+        "end": "18:00",
+        "height": "100",
+        "program": {
+          "ko": "선수부 훈련",
+          "en": "Team Training"
+        },
+        "bgColor": "#fd5240",
+        "icon": "diversity_3"
+      },
+      {
+        "start": "18:30",
+        "end": "19:30",
+        "height": "100",
+        "program": {
+          "ko": "케이지 레슬링 / 그래플링",
+          "en": "Cage Wrestling / Graffling"
+        },
+        "bgColor": "#3e2723",
+        "icon": "sports_kabaddi"
+      },
+      {
+        "start": "19:30",
+        "end": "20:00",
+        "height": "50",
+        "program": {
+          "ko": "휴식 / 자유 수련",
+          "en": "Break Time / Free Training"
+        },
+        "bgColor": "#004d40",
+        "icon": "self_improvement"
+      },
+      {
+        "start": "20:00",
+        "end": "21:00",
+        "height": "100",
+        "program": {
+          "ko": "킥복싱",
+          "en": "Kick Boxing"
+        },
+        "bgColor": "#424242",
+        "icon": "sports_martial_arts"
+      },
+      {
+        "start": "21:00",
+        "end": "21:30",
+        "height": "50",
+        "program": {
+          "ko": "크로스핏",
+          "en": "CrossFit"
+        },
+        "bgColor": "#4a148c",
+        "icon": "fitness_center"
+      },
+      {
+        "start": "21:30",
+        "end": "22:30",
+        "height": "100",
+        "program": {
+          "ko": "복싱 / 킥복싱",
+          "en": "Boxing / Kick Boxing"
+        },
+        "bgColor": "#0d47a1",
+        "icon": "sports_mma"
+      }
+    ],
+    "wed": [
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱 / 킥복싱",
+          "en": "Boxing / Kick Boxing"
+        },
+        "bgColor": "#0d47a1",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "12:00",
+        "end": "13:00",
+        "height": "100",
+        "program": {
+          "ko": "노기 주짓수",
+          "en": "No-Gi Jiu-Jitsu"
+        },
+        "bgColor": "#b71c1c",
+        "icon": "handshake"
+      },
+      {
+        "start": "15:00",
+        "end": "18:00",
+        "height": "100",
+        "program": {
+          "ko": "선수부 훈련",
+          "en": "Team Training"
+        },
+        "bgColor": "#fd5240",
+        "icon": "diversity_3"
+      },
+      {
+        "start": "18:30",
+        "end": "19:30",
+        "height": "100",
+        "program": {
+          "ko": "노기 주짓수",
+          "en": "No-Gi Jiu-Jitsu"
+        },
+        "bgColor": "#b71c1c",
+        "icon": "handshake"
+      },
+      {
+        "start": "19:30",
+        "end": "20:00",
+        "height": "50",
+        "program": {
+          "ko": "휴식 / 자유 수련",
+          "en": "Break Time / Free Training"
+        },
+        "bgColor": "#004d40",
+        "icon": "self_improvement"
+      },
+      {
+        "start": "20:00",
+        "end": "21:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱",
+          "en": "Boxing"
+        },
+        "bgColor": "#f57f17",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "21:00",
+        "end": "21:30",
+        "height": "50",
+        "program": {
+          "ko": "크로스핏",
+          "en": "CrossFit"
+        },
+        "bgColor": "#4a148c",
+        "icon": "fitness_center"
+      },
+      {
+        "start": "21:30",
+        "end": "22:30",
+        "height": "100",
+        "program": {
+          "ko": "복싱 / 킥복싱",
+          "en": "Boxing / Kick Boxing"
+        },
+        "bgColor": "#0d47a1",
+        "icon": "sports_mma"
+      }
+    ],
+    "thu": [
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "height": "100",
+        "program": {
+          "ko": "케이지 레슬링 / 그래플링",
+          "en": "Cage Wrestling / Graffling"
+        },
+        "bgColor": "#3e2723",
+        "icon": "sports_kabaddi"
+      },
+      {
+        "start": "12:00",
+        "end": "13:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱 / 킥복싱",
+          "en": "Boxing / Kick Boxing"
+        },
+        "bgColor": "#0d47a1",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "15:00",
+        "end": "18:00",
+        "height": "100",
+        "program": {
+          "ko": "선수부 훈련",
+          "en": "Team Training"
+        },
+        "bgColor": "#fd5240",
+        "icon": "diversity_3"
+      },
+      {
+        "start": "18:30",
+        "end": "19:30",
+        "height": "100",
+        "program": {
+          "ko": "케이지 레슬링 / 그래플링",
+          "en": "Cage Wrestling / Graffling"
+        },
+        "bgColor": "#3e2723",
+        "icon": "sports_kabaddi"
+      },
+      {
+        "start": "19:30",
+        "end": "20:00",
+        "height": "50",
+        "program": {
+          "ko": "휴식 / 자유 수련",
+          "en": "Break Time / Free Training"
+        },
+        "bgColor": "#004d40",
+        "icon": "self_improvement"
+      },
+      {
+        "start": "20:00",
+        "end": "21:00",
+        "height": "100",
+        "program": {
+          "ko": "킥복싱",
+          "en": "Kick Boxing"
+        },
+        "bgColor": "#424242",
+        "icon": "sports_martial_arts"
+      },
+      {
+        "start": "21:00",
+        "end": "21:30",
+        "height": "50",
+        "program": {
+          "ko": "크로스핏",
+          "en": "CrossFit"
+        },
+        "bgColor": "#4a148c",
+        "icon": "fitness_center"
+      },
+      {
+        "start": "21:30",
+        "end": "22:30",
+        "height": "100",
+        "program": {
+          "ko": "케이지 레슬링 / 그래플링",
+          "en": "Cage Wrestling / Graffling"
+        },
+        "bgColor": "#3e2723",
+        "icon": "sports_kabaddi"
+      }
+    ],
+    "fri": [
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱 / 킥복싱",
+          "en": "Boxing / Kick Boxing"
+        },
+        "bgColor": "#0d47a1",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "12:00",
+        "end": "13:00",
+        "height": "100",
+        "program": {
+          "ko": "노기 주짓수",
+          "en": "No-Gi Jiu-Jitsu"
+        },
+        "bgColor": "#b71c1c",
+        "icon": "handshake"
+      },
+      {
+        "start": "15:00",
+        "end": "18:00",
+        "height": "100",
+        "program": {
+          "ko": "선수부 훈련",
+          "en": "Team Training"
+        },
+        "bgColor": "#fd5240",
+        "icon": "diversity_3"
+      },
+      {
+        "start": "18:30",
+        "end": "19:30",
+        "height": "100",
+        "program": {
+          "ko": "노기 주짓수",
+          "en": "No-Gi Jiu-Jitsu"
+        },
+        "bgColor": "#b71c1c",
+        "icon": "handshake"
+      },
+      {
+        "start": "19:30",
+        "end": "20:00",
+        "height": "50",
+        "program": {
+          "ko": "휴식 / 자유 수련",
+          "en": "Break Time / Free Training"
+        },
+        "bgColor": "#004d40",
+        "icon": "self_improvement"
+      },
+      {
+        "start": "20:00",
+        "end": "21:00",
+        "height": "100",
+        "program": {
+          "ko": "복싱",
+          "en": "Boxing"
+        },
+        "bgColor": "#f57f17",
+        "icon": "sports_mma"
+      },
+      {
+        "start": "21:00",
+        "end": "21:30",
+        "height": "50",
+        "program": {
+          "ko": "크로스핏",
+          "en": "CrossFit"
+        },
+        "bgColor": "#4a148c",
+        "icon": "fitness_center"
+      },
+      {
+        "start": "21:30",
+        "end": "22:30",
+        "height": "100",
+        "program": {
+          "ko": "자유 수련 / 스파링",
+          "en": "Free training / Sparring"
+        },
+        "bgColor": "#004d40",
+        "icon": "self_improvement"
+      }
+    ],
+    "sat": [
+      {
+        "start": "13:00",
+        "end": "16:30",
+        "height": "150",
+        "program": {
+          "ko": "자유 수련",
+          "en": "Free training"
+        },
+        "bgColor": "#004d40",
+        "icon": "self_improvement"
+      }
+    ]
+  }
+}

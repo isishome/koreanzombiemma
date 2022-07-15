@@ -1,0 +1,41 @@
+{
+  "language": "Language",
+  "locales": [
+    {
+      "label": "한국어",
+      "value": "ko"
+    },
+    {
+      "label": "English",
+      "value": "en"
+    }
+  ],
+  "gallery": "Gallery",
+  "gym": "Gym",
+  "trainer": "Trainer",
+  "height": "Height",
+  "weight": "Weight",
+  "style": "Skill / Style",
+  "job": "Job",
+  "program": "Program",
+  "schedule": "Schedule",
+  "contact": "Contact",
+  "bottom1": "Copyright {'@'}2022",
+  "bottom2": "All Right Reserved.",
+  "week": {
+    "mon": "Monday",
+    "tue": "Tuesday",
+    "wed": "Wednesday",
+    "thu": "Thursday",
+    "fri": "Friday",
+    "sat": "Saturday"
+  },
+  "weekShort": {
+    "mon": "mon",
+    "tue": "tue",
+    "wed": "wed",
+    "thu": "thu",
+    "fri": "fri",
+    "sat": "sat"
+  }
+}

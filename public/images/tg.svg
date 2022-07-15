@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="100%" viewBox="0 0 900 900"
+    xml:space="preserve">
+  <g transform="rotate(30,450,450)" display="inline">
+    <circle cx="450" cy="450" r="50%" fill="#31ccd5" />
+    <path d="M 0 450
+          A 450 450 0 0 1 900 450
+          L 0 450
+          Z" fill="#dd4d49" />
+    <circle cx="225" cy="450" r="25%" fill="#dd4d49" />
+    <circle cx="675" cy="450" r="25%" fill="#31ccd5" />
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+{
+  "awards": [
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "UFC 페더급 탑랭크 파이터",
+        "en": "UFC Featherweight Top Rank Fighter"
+      }
+    },
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "UFC Fight of the Night 수상",
+        "en": "UFC Fight of the Night Award"
+      }
+    },
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "UFC Knockout of the Night 수상",
+        "en": "UFC Knockout of the Night Award"
+      }
+    },
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "UFC Submission of the Night 수상",
+        "en": "UFC Submission of the Night Award"
+      }
+    },
+    {
+      "src": "images/master/espn.svg",
+      "desc": {
+        "ko": "2011년 ESPN 올해의 서브미션상",
+        "en": "ESPN Submission of the Year 2011"
+      }
+    },
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "2011년 5월 UFC 최초 트위스터 승",
+        "en": "First Twister win in UFC May 2011"
+      }
+    },
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "2011년 11월 UFC 역대 최단기록 7초 KO승",
+        "en": "The shortest 7-second KO win in UFC history in November 2011"
+      }
+    },
+    {
+      "src": "images/master/wma.png",
+      "desc": {
+        "ko": "2011년 월드 MMA어워드 올해의 서브미션상",
+        "en": "2011 World MMA Awards Submission of the Year Award"
+      }
+    },
+    {
+      "desc": {
+        "ko": "2012년 FIGHT OF YEAR 올해의 경기 선정",
+        "en": "2012 FIGHT OF YEAR Match of the Year"
+      }
+    },
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "2013년 한국인 최초 타이틀 도전",
+        "en": "The first Korean title challenge in 2013"
+      }
+    },
+    {
+      "src": "images/master/ufc.svg",
+      "desc": {
+        "ko": "페더급 부문 랭킹7위 • 17-7-0 (승-패-무)",
+        "en": "#7 Featherweight Division • 17-7-0 (W-L-D)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "language": "언어",
+  "locales": [
+    {
+      "label": "한국어",
+      "value": "ko"
+    },
+    {
+      "label": "English",
+      "value": "en"
+    }
+  ],
+  "gallery": "갤러리",
+  "gym": "체육관",
+  "trainer": "트레이너",
+  "height": "키",
+  "weight": "체급",
+  "style": "주특기 / 스타일",
+  "job": "업무",
+  "program": "프로그램",
+  "schedule": "일정표",
+  "contact": "오시는길",
+  "bottom1": "Copyright {'@'} 2022",
+  "bottom2": "All Right Reserved.",
+  "week": {
+    "mon": "월요일",
+    "tue": "화요일",
+    "wed": "수요일",
+    "thu": "목요일",
+    "fri": "금요일",
+    "sat": "토요일"
+  },
+  "weekShort": {
+    "mon": "월",
+    "tue": "화",
+    "wed": "수",
+    "thu": "목",
+    "fri": "금",
+    "sat": "토"
+  }
+}
