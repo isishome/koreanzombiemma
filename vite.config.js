@@ -20,7 +20,7 @@ export default defineConfig(({ command }) => {
       }
     },
     build: {
-      outDir: '../../../../publish/work/koreanzombiemma',
+      outDir: './koreanzombiemma',
       emptyOutDir: true
     }
   }
