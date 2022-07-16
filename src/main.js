@@ -12,7 +12,6 @@ import '@quasar/extras/material-icons/material-icons.css'
 // Import Quasar css
 import 'quasar/src/css/index.sass'
 
-
 // create axios instance
 const instance = axios.create({
   baseURL: '',
