@@ -113,18 +113,18 @@ html:lang(en) .profile {
 }
 
 .profile .tname {
-  font-size: 1.8em !important;
+  font-size: 2.4em !important;
   font-weight: bold;
   padding: 2px 0 !important;
 }
 
 .profile th {
-  font-size: 1.4em !important;
+  font-size: 1.8em !important;
   padding: 4px 2px !important;
 }
 
 .profile td {
-  font-size: 1.4em !important;
+  font-size: 1.8em !important;
   text-decoration-line: underline;
   text-underline-offset: 4px;
   padding: 4px 2px 4px 20px !important;
@@ -137,13 +137,13 @@ html:lang(en) .profile {
   }
 
   .profile .tname {
-    font-size: 1em !important;
+    font-size: 1.2em !important;
     padding: 2px 0 !important;
   }
 
   .profile th,
   .profile td {
-    font-size: .8em !important;
+    font-size: 1em !important;
     padding: 4px 2px !important;
   }
 

@@ -1,11 +1,11 @@
 const routes = [{
   path: '',
   name: 'main',
-  component: () => import(/* webpackChunkName: "layout" */ '@/components/Main.vue'),
+  component: () => import('@/components/Main.vue'),
   children: [{
     path: ':sec',
     name: 'section',
-    component: () => import(/* webpackChunkName: "layout" */ '@/components/Main.vue'),
+    component: () => import('@/components/Main.vue'),
     props: true
   }]
 }]
