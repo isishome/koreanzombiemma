@@ -2,7 +2,7 @@
   "notice": [
     {
       "id": "zombietrip",
-      "start": "2022-09-24 00:00:00",
+      "start": "2022-09-22 00:00:00",
       "end": "2022-09-24 23:59:59",
       "img": "images/notice/zombietrip.jpg",
       "link": "https://www.youtube.com/watch?v=YTSfzMdPaQg",
@@ -18,7 +18,7 @@
     },
     {
       "id": "zombietrip",
-      "start": "2022-09-24 00:00:00",
+      "start": "2022-09-22 00:00:00",
       "end": "2022-09-24 23:59:59",
       "title": {
         "ko": "오픈 공지",
