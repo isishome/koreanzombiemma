@@ -80,7 +80,7 @@ const sizes = computed(() => store.sizes)
   <div>
     <div class="title" :class="`text-${textColor}`">{{ title }}</div>
     <div class="sub-title" :class="`text-${textColor}`">{{
-        subTitle
+    subTitle
     }}</div>
     <q-carousel v-model="section" v-intersection="onIntersection" :class="show ? 'complete' : ''" keep-alive
       transition-prev="slide-right" transition-next="slide-left" swipeable animated infinite
@@ -89,7 +89,7 @@ const sizes = computed(() => store.sizes)
       <q-carousel-slide class="no-scroll" v-for="(chunk, idx) in chunkImages" :key="idx" :name="idx">
         <div class="row justify-center q-col-gutter-x-md">
           <div :class="`col-${12 / size}`" v-for="(img, index) in chunk" :key="index">
-            <q-card square class="no-shadow bg-grey-4 cursor-pointer" @click="zoomImage(img)">
+            <q-card class="no-shadow bg-grey-4 cursor-pointer" @click="zoomImage(img)">
               <q-img :ratio="1" :src="img.src" :srcset="img.srcset" :sizes="sizes">
               </q-img>
             </q-card>
@@ -97,8 +97,8 @@ const sizes = computed(() => store.sizes)
         </div>
       </q-carousel-slide>
     </q-carousel>
-    <q-dialog square v-model="view" @before-hide="zoom = {}">
-      <q-card square class="shadow-1 bg-grey-2 cursor-pointer no-scroll position-relative"
+    <q-dialog v-model="view" @before-hide="zoom = {}">
+      <q-card class="shadow-1 bg-grey-2 cursor-pointer no-scroll position-relative"
         :class="ratio > 1 ? 'vertical' : 'horizontal'" @click="view = false">
         <img class="fit img" :src="zoom.src" :srcset="zoom.srcset" />
         <slot v-if="$slots.info" name="info" :info="zoom"></slot>

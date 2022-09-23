@@ -37,5 +37,7 @@
     "thu": "thu",
     "fri": "fri",
     "sat": "sat"
-  }
+  },
+  "go": "Go",
+  "doNotShow": "Do not show for 7 days"
 }

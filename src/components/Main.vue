@@ -11,6 +11,7 @@ const Trainer = defineAsyncComponent(() => import('@/components/Trainer.vue'))
 const Program = defineAsyncComponent(() => import('@/components/Program.vue'))
 const Scheduler = defineAsyncComponent(() => import('@/components/Scheduler.vue'))
 const Contact = defineAsyncComponent(() => import('@/components/Contact.vue'))
+const Notice = defineAsyncComponent(() => import('@/components/Notice.vue'))
 
 // global
 const route = useRoute()
@@ -66,6 +67,9 @@ const onAwardsIntersection = (entry) => {
   document.body.classList.add('stop')
 }
 
+// Notice
+const noticeData = shallowRef([])
+
 const timeout = ref(2000)
 const onRemoveIntersection = () => {
   if (last.value)
@@ -83,6 +87,13 @@ const onRemoveIntersection = () => {
     document.body.classList.remove('stop')
     window.scrollTo({ top: awardSlide.value.$el.offsetTop, behavior: 'auto' })
   }, timeout.value)
+}
+
+const loadNotice = () => {
+  axios.get('data/notice.json')
+    .then((response) => {
+      noticeData.value = response.data.notice
+    })
 }
 
 // init
@@ -156,6 +167,7 @@ const init = () => {
   }, 2000)
 
   setTimeout(() => {
+    loadNotice()
     goSection()
   }, 2050)
 }
@@ -262,6 +274,7 @@ onUnmounted(() => {
       <Contact class="center-box" :title="t('contact')" :address="main.address[locale]" :phone="main.phone[locale]"
         :email="main.email[locale]" text-color="grey-10" :locale="locale" />
     </div>
+    <Notice v-for="notice in noticeData" :key="notice.id" :data="notice" />
   </div>
 </template>
 
