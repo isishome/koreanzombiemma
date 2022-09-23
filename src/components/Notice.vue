@@ -60,7 +60,6 @@ onMounted(() => {
   word-break: keep-all;
   width: 90%;
   max-width: 600px;
-  max-height: 40vh !important;
   background-color: transparent;
 }
 

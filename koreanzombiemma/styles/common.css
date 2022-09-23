@@ -1,0 +1,130 @@
+:root {
+  --q-primary: #1e88e5 !important;
+  --q-secondary: #3c3c5a !important;
+  --q-accent: #263238 !important;
+}
+
+body {
+  background-color: rgb(0, 0, 20);
+}
+
+.noto {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.ko-pen {
+  font-family: 'Hi Melody', cursive;
+}
+
+.en-pen {
+  font-family: 'Coming Soon', cursive;
+}
+
+html:lang(ko) {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.nunito {
+  font-family: 'Nunito', sans-serif;
+}
+
+.rubik {
+  font-family: 'Rubik Wet Paint', cursive;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+.net {
+  position: relative;
+}
+
+.net::after {
+  content: '';
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: linear-gradient(-45deg, rgba(0, 0, 0, .1) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, .1) 50%, rgba(0, 0, 0, .1) 75%, transparent 75%, transparent 100%), linear-gradient(45deg, rgba(0, 0, 0, .1) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, .1) 50%, rgba(0, 0, 0, .1) 75%, transparent 75%, transparent 100%);
+  background-size: 4px 4px;
+}
+
+#preload {
+  width: 160px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: opacity .5s ease-out;
+}
+
+#preload img {
+  position: absolute;
+  z-index: -1;
+}
+
+#preload.complete {
+  opacity: 0;
+}
+
+a .q-focus-helper,
+button .q-focus-helper {
+  visibility: hidden !important;
+}
+
+.center-box {
+  word-break: keep-all;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.separator {
+  background-color: #fafafa !important;
+  box-shadow: inset 0 -1.3vh 0 0 rgba(255, 255, 255, 1);
+}
+
+.separator.dark {
+  background-color: rgba(20, 20, 20, 1) !important;
+}
+
+.q-panel.scroll {
+  transition-timing-function: cubic-bezier(1.000, 0.010, 0.380, 1.000);
+}
+
+.stop {
+  margin: 0 !important;
+  height: 100% !important;
+  overflow: hidden !important;
+  min-height: 100vh !important;
+}
+
+.padding-title {
+  padding: 6vh 0;
+}
+
+.title {
+  font-size: calc(2vw + 20px);
+  font-weight: bold;
+  letter-spacing: -.02em;
+  text-align: center;
+}
+
+.sub-title {
+  font-size: calc(1vw + 10px);
+  line-height: 1.5;
+  letter-spacing: -.02em;
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.q-timeline__title {
+  margin-bottom: 10px !important;
+}
+
+.q-timeline__subtitle {
+  display: none !important;
+}
