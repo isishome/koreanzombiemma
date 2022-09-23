@@ -37,7 +37,7 @@ onMounted(() => {
   <q-dialog persistent v-model="view">
     <q-card dense class="notice-card">
       <q-img :src="data.img ? data.img : 'images/gym/main_800.jpg'" width="100%" />
-      <q-btn class="absolute-top-right q-ma-md" icon="close" dense round color="black" text-color="white"
+      <q-btn class="absolute-top-right q-ma-xs close" icon="close" dense round text-color="white"
         @click="view = false" />
       <div class="contents q-pa-sm" :style="`color:${data.color ? data.color : 'white'}`">
         <div class="text-h6">{{data.title[locale]}}</div>
@@ -70,5 +70,9 @@ onMounted(() => {
   right: 0;
   bottom: 44px;
   background-color: rgba(0, 0, 0, .6);
+}
+
+.close {
+  background-color: rgba(0, 0, 0, .4) !important;
 }
 </style>
